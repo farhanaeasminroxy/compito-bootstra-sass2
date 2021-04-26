@@ -1,0 +1,19 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../src/stylesheets/main.scss",
+        "../src/stylesheets/_breakpoints.scss",
+        "../src/stylesheets/abstracts/_base.scss",
+        "../src/stylesheets/abstracts/_variables.scss",
+        "../src/stylesheets/abstracts/_mixins.scss",
+        "../src/stylesheets/abstracts/_functions.scss",
+        "../src/stylesheets/default/_base.scss",
+        "../src/stylesheets/sm-up/_base.scss",
+        "../src/stylesheets/md-up/_base.scss",
+        "../src/stylesheets/lg-up/_base.scss",
+        "../src/stylesheets/sm-down/_base.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}

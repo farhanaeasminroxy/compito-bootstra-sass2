@@ -1,0 +1,65 @@
+.navbar {
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}
+.jumbotron {
+    padding: 120px 0;
+    background: linear-gradient(to left, #1FD21F, #26CDD5);;
+    color: #fff;
+    
+}
+.btn-primary {
+    background-color: #1CF08C;
+    border: #1CF08C;
+}
+
+.h3 {
+    padding-top: 130px;
+    width: 50%;
+}
+.step2 {
+    color: #fff;
+}
+.card {
+    border: 0px solid;
+}
+.step3 {
+    background: #5F4CB4;
+    color: white;
+    height: 429px;
+    padding: 35px 35px 34px 34px;
+    border-radius: 20px;
+    box-shadow: 0 2px 25px 0 rgba(0, 0, 0, 0.29);
+    
+}
+.leftarea {
+    
+    float: left;
+    p {
+        width: 506px;
+    }
+}
+.rightarea {
+    float: right;
+    img {
+        width: 405px;
+        height: 300px;
+        border-radius: 20px;
+    }
+}
+.step4 {
+    height: 180px;
+    background: #CED2D2;
+    
+}
+.form-control {
+    
+    width: 25%;
+    border: solid 1px #979797;
+}
+.footer {
+    background: #464949;
+    color: #fff;
+}
+
