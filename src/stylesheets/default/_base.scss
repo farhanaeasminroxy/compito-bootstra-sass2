@@ -33,23 +33,13 @@
     padding: 35px 35px 34px 34px;
     border-radius: 20px;
     box-shadow: 0 2px 25px 0 rgba(0, 0, 0, 0.29);
-    
-}
-.leftarea {
-    
-    float: left;
-    p {
-        width: 506px;
-    }
-}
-.rightarea {
-    float: right;
-    img {
-        width: 405px;
-        height: 300px;
+    .img-fluid {
+        height: 96%;
+        width: 100%;
         border-radius: 20px;
     }
 }
+
 .step4 {
     height: 180px;
     background: #CED2D2;
